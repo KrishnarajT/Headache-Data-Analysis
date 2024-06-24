@@ -1,0 +1,6 @@
+Id,Date,Duration,Severity,Type,Location,Cause,Medication,Quantity,Notes
+1,2021-01-09  21:09,01:00,5,Other,Back,Tiredness,0,0,
+2,2021-01-13  03:06,03:00,5,Other,Left,Other,0,0,
+3,2021-01-23  10:00,02:00,5,Sinus,All Over,Tiredness,,0,
+4,2021-02-06  03:00,04:00,4,Other,Left,Tiredness,,0,
+5,2021-02-13  02:55,04:00,6,Other,Left,Other,,0,
